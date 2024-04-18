@@ -1,0 +1,15 @@
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\bin\Debug\net6.0\sinif.exe
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\bin\Debug\net6.0\sinif.deps.json
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\bin\Debug\net6.0\sinif.runtimeconfig.json
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\bin\Debug\net6.0\sinif.dll
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\bin\Debug\net6.0\sinif.pdb
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\obj\Debug\net6.0\sinif.csproj.AssemblyReference.cache
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\obj\Debug\net6.0\sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\obj\Debug\net6.0\sinif.AssemblyInfoInputs.cache
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\obj\Debug\net6.0\sinif.AssemblyInfo.cs
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\obj\Debug\net6.0\sinif.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\obj\Debug\net6.0\sinif.dll
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\obj\Debug\net6.0\refint\sinif.dll
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\obj\Debug\net6.0\sinif.pdb
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\obj\Debug\net6.0\sinif.genruntimeconfig.cache
+C:\Users\ca.r214.13\Desktop\AB106\sinif\sinif\obj\Debug\net6.0\ref\sinif.dll
