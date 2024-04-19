@@ -19,22 +19,15 @@ namespace sinif
 
             foreach (var fruit in Basket)
             {
-                
 
+                var type = fruit.GetType();
 
-                var types =fruit.GetType().GetFields();
-                Console.WriteLine(Fruit.Name);
+                Console.WriteLine(type.Name);
 
-                foreach(var type in types)
+                foreach (var item in type.GetFields())
                 {
-                    Console.WriteLine(type.GetValue(fruit));
-                    
+                    Console.WriteLine(item.GetValue(fruit));
                 }
-
-
-
-
-
 
 
 
